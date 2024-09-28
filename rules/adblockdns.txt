@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240928162047
-! Last modified: 2024/09/28 16:20:47
-! Blocked domains: 132390
+! Version: 20240929002016
+! Last modified: 2024/09/29 00:20:16
+! Blocked domains: 132417
 ! unBlocked domains: 33
 !
 ||0-0.fr^
@@ -537,6 +537,7 @@
 ||ahm.135320.com^
 ||dhl.135320.com^
 ||1360.cn^
+||1370065b3a.com^
 ||137kfj65k.de^
 ||138xt.com^
 ||lyapi.1391.com^
@@ -4046,6 +4047,7 @@
 ||admulti.com^
 ||admulti.ru^
 ||admvetro-it.top^
+||admvpmpllikt.com^
 ||admysports.com^
 ||admyteam.com^
 ||adn-performance.com^
@@ -4390,6 +4392,7 @@
 ||adserverus.info^
 ||adserverxxl.de^
 ||adservf.com^
+||adservg.com^
 ||adservice.dk^
 ||adservicemedia.dk^
 ||adservingfront.com^
@@ -11241,6 +11244,7 @@
 ||geoip.ativo.com^
 ||etc.atja.jp^
 ||atjigglypuffor.com^
+||atjogdfzivre.com^
 ||cc-analytics--cdn.us-east-1.prod.public.atl-paas.net^
 ||metric.atlanta.net^
 ||atlantaave.com^
@@ -22632,6 +22636,7 @@
 ||cfcloudcdn.com^
 ||cfd-trader.io^
 ||cfds-trader.com^
+||cfdvd779.fun^
 ||cfeb0910c5.com^
 ||cfebliqui.com^
 ||info.cfevr.org^
@@ -23001,6 +23006,7 @@
 ||pduwvp.chanti.dk^
 ||umewjp.chanti.no^
 ||wmokhr.chanti.se^
+||chantypitmen.click^
 ||chanz.com^
 ||chanzs-it.com^
 ||chaojilamei.cn^
@@ -33387,6 +33393,7 @@
 ||www.dajean.com^
 ||da.daji.com^
 ||dajomikitl.xyz^
+||dajs001.shop^
 ||dajswiacllfy.com^
 ||gyydua.dakine.com^
 ||dakjddjerdrct.online^
@@ -33512,6 +33519,7 @@
 ||metrics.dandh.com^
 ||smetrics.dandh.com^
 ||tracking.dandingo.com^
+||dandinterpersona.com^
 ||go.dandori-work.co.jp^
 ||dandrosoft.com^
 ||dandyblondewinding.com^
@@ -34607,6 +34615,7 @@
 ||debtsevolve.com^
 ||email.notifications.debtwire.com^
 ||www.debtwire.com^
+||a.debub.site^
 ||debugentity.com^
 ||www.debunkingskeptics.com^
 ||deburrfleshes.com^
@@ -40506,6 +40515,7 @@
 ||test.efaging.com^
 ||efanyorgagetni.info^
 ||feas.efarma.com^
+||efawhwawapkrbu.com^
 ||os.efax.es^
 ||os.efax.nl^
 ||os.efaxcorporate.com^
@@ -45738,6 +45748,7 @@
 ||858006.fjao.pl^
 ||914231.fjao.pl^
 ||f206b417e95ecbe5ef7cc47314c819fb.fjao.pl^
+||fjaqxtszakk.com^
 ||axi.fjcruiserdocs.co.za^
 ||fjgw.net^
 ||fjmailia.com^
@@ -47182,6 +47193,7 @@
 ||fpukxcinlf.com^
 ||fpvdrzx.xyz^
 ||fpwallet.com^
+||fpxhvdjbivzt.com^
 ||fpxvg5.xyz^
 ||fpyhuktuwatn.com^
 ||fqab5xq7qlgt.info^
@@ -48659,6 +48671,7 @@
 ||50hardcore.galleryprogram.com^
 ||gallicize25.fun^
 ||galllcciiaaroffllceees.com^
+||gallonjav128.fun^
 ||gallopextensive.com^
 ||advise.gallup.com^
 ||galopelikeantelope.com^
@@ -55022,6 +55035,7 @@
 ||data-908fd409d9.hoerzu.de^
 ||data-c0c484e9be.hoerzu.de^
 ||dl.hoes.tube^
+||ww.hoes.tube^
 ||waaf1.hoferfotos.at^
 ||trk.hoffmanandlamson.com^
 ||ea.hofmann.es^
@@ -57301,6 +57315,7 @@
 ||idvd.su^
 ||idvideo238544.blogspot.com^
 ||idvideo678.blogspot.com^
+||idvumepebhj.com^
 ||tracking.idwholesaler.com^
 ||idwrx.com^
 ||idyllteapots.com^
@@ -67772,6 +67787,7 @@
 ||lautenschlager.eu^
 ||data-a01a8a1ba4.lauterbacher-anzeiger.de^
 ||images.lauthorities.com^
+||lauwofigleegry.net^
 ||lauzaloistl.com^
 ||lavamedia.vn^
 ||lavanetwork.net^
@@ -69928,6 +69944,7 @@
 ||looksa.com^
 ||looksblazeconfidentiality.com^
 ||looksdashboardcome.com^
+||lookshouldthin.com^
 ||looksmart.com^
 ||looksmartppc.com^
 ||api.lookupmanager.com^
@@ -81428,6 +81445,7 @@
 ||cm.nxtm.pl^
 ||nxtpsh.top^
 ||sales.nxtwall.com^
+||nxtytjeakstivh.com^
 ||nxwrgrymkfp.com^
 ||nxxkxr.xyz^
 ||nxxyjn.com^
@@ -85213,6 +85231,7 @@
 ||mfe.paqpq.com^
 ||parabit.ru^
 ||parachuteclub.live^
+||parachutecourtyardgrid.com^
 ||parachuteeffectedotter.com^
 ||paradisewin.com^
 ||paradizeconstruction.com^
@@ -90971,6 +90990,7 @@
 ||psnboy.com^
 ||psncodecardgenerator.com^
 ||psnfreepoints.com^
+||psoakichoax.xyz^
 ||psomtenga.net^
 ||psoogaix.net^
 ||psooglaik.net^
@@ -113591,6 +113611,7 @@
 ||tfsqxdc.com^
 ||tfsxszw.com^
 ||tft-test.ru^
+||tftnbbok.xyz^
 ||tg-safety.com^
 ||tg.sv^
 ||tg2813portal.com^
@@ -122497,6 +122518,7 @@
 ||tracker.vgame.us^
 ||vgbfurkmbjw.org^
 ||vgdny.com^
+||vgfhycwkvh.com^
 ||vgfree.com^
 ||vgfrrtc.click^
 ||vghd.com^
@@ -124450,6 +124472,7 @@
 ||vupoupay.com^
 ||vupsnx.xyz^
 ||vupulse.com^
+||vuqcteyi.com^
 ||vurbont.xyz^
 ||app.vurse.com^
 ||vursoofte.net^
@@ -128401,6 +128424,7 @@
 ||seguritypriva.wuaze.com^
 ||vldcnotlook03.wuaze.com^
 ||wubbaboost.blogspot.com^
+||wubeghasp.com^
 ||wubrvwoirvwpiuroiue.site^
 ||aeoncardservice.wuc9c6ycmwb9w6.top^
 ||wuchaurteed.com^
@@ -129305,6 +129329,7 @@
 ||xliffnsc.xyz^
 ||b.xlineker.com^
 ||xlivesex.com^
+||xljlzylffe.com^
 ||xlmdtiyqbkygtfkh.com^
 ||qlspmy.xlmoto.be^
 ||ddwwsf.xlmoto.ch^
@@ -130099,6 +130124,7 @@
 ||track.yetric.app^
 ||yetshape.com^
 ||yetterslave.com^
+||yetuzfqjb.com^
 ||yext-pixel.com^
 ||analytics.yext-static.com^
 ||realtimeanalytics.yext.com^
@@ -132235,6 +132261,7 @@
 ||zvhlzb.xyz^
 ||zvhprab.com^
 ||track.msadcenter.zvjw.com^
+||zvjzyupjaq.com^
 ||zvkytbjimbhk.com^
 ||zvpr.cfd^
 ||zvpru.com^

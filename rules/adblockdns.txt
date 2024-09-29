@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240929002016
-! Last modified: 2024/09/29 00:20:16
-! Blocked domains: 132417
+! Version: 20240929092356
+! Last modified: 2024/09/29 09:23:56
+! Blocked domains: 132434
 ! unBlocked domains: 33
 !
 ||0-0.fr^
@@ -1735,6 +1735,7 @@
 ||0lxpo.55619462.com^
 ||8861.556611.club^
 ||5566688.com^
+||55766925.xyz^
 ||558-558-559.com^
 ||www.55998448.com^
 ||55bdsm.com^
@@ -12385,6 +12386,7 @@
 ||ayads.co^
 ||ayamkremesblitar.com^
 ||menecx.ayanokoji-onlineshop.jp^
+||ayebsc.xyz^
 ||ayuda-ing-esp.com^
 ||www.ayudadirecta.org^
 ||aud.ayvens.com^
@@ -21484,7 +21486,7 @@
 ||cartstack.com^
 ||cartx.cloud^
 ||wheelify.cartzy.com^
-||b.carungo.com^
+||carungo.com^
 ||carv.site^
 ||carvagemidweek.shop^
 ||branch.carvana.com^
@@ -22084,7 +22086,7 @@
 ||cdn4ads.com^
 ||cdn7.network^
 ||cdnads.com^
-||video.cdnako.com^
+||cdnako.com^
 ||cdnasiaclub.com^
 ||cdnativ.com^
 ||cdnativepush.com^
@@ -22156,6 +22158,7 @@
 ||cdrvrs.com^
 ||cdryuoe.com^
 ||go.cdsi.us.com^
+||cdszgg.xyz^
 ||insights.cdt.ch^
 ||cdttxdqe.xyz^
 ||cdu.cc^
@@ -41707,6 +41710,7 @@
 ||enniced.com^
 ||enodiarahnthedon.com^
 ||enoises.com^
+||enokouv.icu^
 ||www.enomis-paris.fr^
 ||enoneahbu.com^
 ||enooc.com^
@@ -49597,7 +49601,6 @@
 ||gesas.it^
 ||turtle.geshem.space^
 ||gestama.boats^
-||vw1.gestimnogo.net^
 ||gestion-assurance-sante.com^
 ||smetrics.gestionpriveegi.com^
 ||analytics.gestore.com^
@@ -53429,6 +53432,7 @@
 ||trk.hartell.com^
 ||t.hartfordsymphony.org^
 ||www.hartnessintl.com^
+||haruko.store^
 ||ads.harvard.edu^
 ||form.harvardbusiness.org^
 ||insights.harvardbusiness.org^
@@ -54318,6 +54322,7 @@
 ||pastas.hervesta.lt^
 ||track.hervitalityhub.com^
 ||herynore.com^
+||heryt111.fun^
 ||data-67f17c94f0.herzberatung.de^
 ||data-908fd409d9.herzberatung.de^
 ||smetrics.herzstolpern.at^
@@ -56648,6 +56653,7 @@
 ||i305175.net^
 ||imp.i312864.net^
 ||i3535.com^
+||ios-pclog.i4.cn^
 ||i4004.info^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
@@ -57122,6 +57128,7 @@
 ||id.sv^
 ||member.freefiregarena.id.vn^
 ||membership.garenaa.id.vn^
+||booking.id05196219.com^
 ||vlnted-gb.id243129.info^
 ||id565312.sbs^
 ||olx.id647821647841.pl^
@@ -61437,6 +61444,7 @@
 ||itpotes.top^
 ||go.itpro.tv^
 ||itpronetwork.net^
+||itqwesk.icu^
 ||itrac.it^
 ||ip.itracker360.com^
 ||itrckr.com^
@@ -66127,6 +66135,7 @@
 ||kmsauto.info^
 ||kmsauto.org^
 ||kmsauto.tech^
+||kmsauto.uno^
 ||smetrics.kmshair.com^
 ||kmsofficial.org^
 ||kmspi.co^
@@ -75701,6 +75710,7 @@
 ||modkmarket.vip^
 ||modlily.com^
 ||modmarket.click^
+||modmobile24.com^
 ||qswdme.modnakiecka.pl^
 ||modnikreace.com^
 ||modnynext.pl^
@@ -78639,6 +78649,7 @@
 ||navi6.com^
 ||navi65.com^
 ||navi66.ru^
+||navi69.ru^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -81863,6 +81874,7 @@
 ||obtrusivecrisispure.com^
 ||obuse-apple.com^
 ||obusinesscard.com^
+||obviousestate.com^
 ||ens.obwaldnerzeitung.ch^
 ||obwieszczenie.click^
 ||obyavka.org.ua^
@@ -113399,6 +113411,7 @@
 ||terriblethumb.com^
 ||terrifyingcovert.com^
 ||tersonia.com^
+||teryt111.fun^
 ||terytoriummiejskie.click^
 ||tesakom.com^
 ||tesbuer.xyz^
@@ -115087,6 +115100,7 @@
 ||tiffanyschreiber.com^
 ||tificates.com^
 ||tigainareputaon.info^
+||tigerkash.com^
 ||tigerlilyindia.com^
 ||go.tigertool.com^
 ||olx.tight-get.shop^
@@ -115728,6 +115742,7 @@
 ||toadcampaignruinous.com^
 ||toaglegi.com^
 ||toamaustouy.com^
+||toapz.xyz^
 ||adlc-exchange.toast.com^
 ||api-log-analytics.cloud.toast.com^
 ||cm-exchange.toast.com^
@@ -120340,6 +120355,7 @@
 ||upshroomishtor.com^
 ||tally.upsideout.com^
 ||p.upskirt.tv^
+||creative.upskirtlive.com^
 ||upskittyan.com^
 ||www.upspaketexpress.com^
 ||upspostm.top^
@@ -130882,6 +130898,7 @@
 ||yziwujuzq.live^
 ||yzjftz.net^
 ||yzkzixun.com^
+||yzldy.info^
 ||yzmcok.xyz^
 ||yzqjaltdhlv.com^
 ||trk.yzsystems.com^

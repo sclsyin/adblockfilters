@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241016002211
-! Last modified: 2024/10/16 00:22:11
-! Blocked domains: 163959
+! Version: 20241016091915
+! Last modified: 2024/10/16 09:19:15
+! Blocked domains: 163978
 ! unBlocked domains: 44
 !
 ||005lxr.com^
@@ -640,6 +640,7 @@
 ||15ye-g.cfd^
 ||16-merchant-s.com^
 ||1605agency.com^
+||1614729201.rsc.cdn77.org^
 ||tracker.1625djnc.com^
 ||ad.163.com^
 ||adgeo.163.com^
@@ -13800,7 +13801,6 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animi2.com^
@@ -17112,6 +17112,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -21223,6 +21224,7 @@
 ||bbangads.b-cdn.net^
 ||bdtt.b-cdn.net^
 ||beamanalytics.b-cdn.net^
+||bitcasino365.b-cdn.net^
 ||bs-adserver.b-cdn.net^
 ||c238e88797660ef0ef7234e03bf24ba6.b-cdn.net^
 ||core-apps.b-cdn.net^
@@ -23423,6 +23425,7 @@
 ||stats.bdc.ca^
 ||bdcebeabc4.com^
 ||go.bdcexperts.com^
+||bdckqpofmclr.com^
 ||bddc935c97.com^
 ||bddwm.com^
 ||bde3d.com^
@@ -53834,6 +53837,7 @@
 ||erplb.com^
 ||erpo-45.cfd^
 ||www.erq.io^
+||erqtga.xyz^
 ||err.chicappa.jp^
 ||errantoltaks.com^
 ||errantstetrole.com^
@@ -64195,6 +64199,7 @@
 ||giatsaytietkiem.com^
 ||giaydantuong.com^
 ||gibaivoa.com^
+||gibizosutchoakr.net^
 ||giboxdwwevu.com^
 ||go.gibraltarbc.com^
 ||sstats.gibson.com^
@@ -89076,6 +89081,7 @@
 ||metrics.lww.com^
 ||lwxjg.com^
 ||lx2rv.com^
+||lxpbdp.xyz^
 ||lxpmidiasdigitais.com.br^
 ||lxtrack.com^
 ||lxviet66.com^
@@ -103503,6 +103509,7 @@
 ||hosting2029570.online.pro^
 ||hosting2181395.online.pro^
 ||hosting2214187.online.pro^
+||onlineadid.com^
 ||dailydeals.onlineathens.com^
 ||onlinebalances.com^
 ||onlinebazarsmm.com^
@@ -104049,6 +104056,7 @@
 ||opioids.news^
 ||i.opiwb.com^
 ||opkinglerr.com^
+||opkmio.xyz^
 ||stats.opkode.com^
 ||oplacalnerzeczy.click^
 ||oplatakup247.shop^
@@ -117151,6 +117159,7 @@
 ||smetrics.pvh.com^
 ||trk.pvhealth1.com^
 ||pvhjkzo.xyz^
+||pviasld.icu^
 ||pvklace.com^
 ||pvlcbsynxsabti.com^
 ||pvlnjwr.xyz^
@@ -117944,6 +117953,7 @@
 ||api-zhibo.qtfm.cn^
 ||upload-up.qtfm.cn^
 ||qtoxhaamntfi.com^
+||qtroytj33.fun^
 ||qtspkqzn.com^
 ||qtuopsqmunzo.com^
 ||qtuxulczymu.com^
@@ -118318,6 +118328,7 @@
 ||wvzddr.quirumed.com^
 ||quisma.com^
 ||quit9to5solutions.com^
+||quitasueno.com^
 ||quitepoet.com^
 ||quitesousefulhe.info^
 ||quitjav11.fun^
@@ -130796,6 +130807,7 @@
 ||snowmanpenetrateditto.com^
 ||snowmiracles.com^
 ||aolsvc.snowqueen.ru^
+||snowroxy.com^
 ||snowsignal.com^
 ||snowyescape.live^
 ||tr.info.snpden.net^
@@ -131541,7 +131553,11 @@
 ||soonstrongestquoted.com^
 ||link.sooooon.com^
 ||adballoon.sooplive.co.kr^
+||analysis.sooplive.co.kr^
+||collector1.sooplive.co.kr^
 ||deapi.sooplive.co.kr^
+||delog.sooplive.co.kr^
+||eventapi.sooplive.co.kr^
 ||reqde.sooplive.co.kr^
 ||soopsepsi.net^
 ||soopsulo.xyz^
@@ -131584,6 +131600,7 @@
 ||sorceryfalda.life^
 ||sore-candle-comic.glitch.me^
 ||ophvxe.sorel.jp^
+||soreldiscount.com^
 ||soremetropolitan.com^
 ||soresidewalk.com^
 ||soresneeze.com^
@@ -149322,6 +149339,7 @@
 ||usmusk.net^
 ||usn.cc^
 ||usnd.to^
+||usnewoutdoor.com^
 ||usnewoutdoors.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
@@ -157595,6 +157613,7 @@
 ||h1.wk2.com^
 ||wk4x5rdtoz2tn0.com^
 ||wka4jursurf6.com^
+||wkabios.icu^
 ||wkanx.com^
 ||axp.wkbn.com^
 ||as.wkcr.cz^

@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241017002032
-! Last modified: 2024/10/17 00:20:32
-! Blocked domains: 149770
+! Version: 20241017091820
+! Last modified: 2024/10/17 09:18:20
+! Blocked domains: 149793
 ! unBlocked domains: 30
 !
 ||0551huayanbdf.com^
@@ -4475,6 +4475,7 @@
 ||pumpkin.abine.com^
 ||abiskarfoodproduct.com^
 ||abissnet.net^
+||abixkw.xyz^
 ||abjectattempt.com^
 ||abjectionblame.com^
 ||abjectionpatheticcoloured.com^
@@ -5268,6 +5269,7 @@
 ||acridtubsource.com^
 ||acridtwist.com^
 ||acritolyarke.top^
+||acrityezra.shop^
 ||bjozin.acrmart.com^
 ||acrobatalar.shop^
 ||acrobaticdesire.com^
@@ -9608,6 +9610,7 @@
 ||almiranazelia.blogspot.com^
 ||almiras.kz^
 ||almondnetworks.com^
+||almonryminuter.com^
 ||19035924.automated.almosafer.com^
 ||19035924.email.almosafer.com^
 ||19035924.loyalty.almosafer.com^
@@ -10654,6 +10657,7 @@
 ||cn4.animehdl.net^
 ||ad.animehub.ac^
 ||animenime.ru^
+||animeshoppers.com^
 ||animits.com^
 ||dinocraft-test.animocabrands.com^
 ||aninding-branship.com^
@@ -15432,6 +15436,7 @@
 ||ss-mndsrv.b-cdn.net^
 ||sunlightmetrics.b-cdn.net^
 ||unibotscdn.b-cdn.net^
+||w2g-ping.b-cdn.net^
 ||winonexd.b-cdn.net^
 ||jhfuhi.b-exit.com^
 ||b-m.xyz^
@@ -28565,6 +28570,7 @@
 ||cgd-h.com^
 ||cgd-protecao.com^
 ||cgeckmydirect.biz^
+||cggyyi.xyz^
 ||ad.cgi.cz^
 ||cgigc.com.cn^
 ||cglms.com^
@@ -29410,6 +29416,7 @@
 ||event.chitai-gorod.ru^
 ||chitsnooked.com^
 ||chivalrouscord.com^
+||chiwaiwhor.xyz^
 ||chixingkeji.com^
 ||www.chiyih.com^
 ||a8.chiyo-moni.com^
@@ -46683,6 +46690,7 @@
 ||t.etraveli.com^
 ||etrevisible.com^
 ||etrigue.com^
+||etroytj33.fun^
 ||etruscaia.it^
 ||ets-2-mod.ru^
 ||sitestats.ets.org^
@@ -52127,6 +52135,7 @@
 ||data-fb37a1e7c3.frankenpost.de^
 ||frankfred.com^
 ||stats.frankfurterneuepresse.de^
+||frankgreenauonline.shop^
 ||go.frankgroup.com^
 ||franklikeme.blogspot.com^
 ||info.franklin.edu^
@@ -55397,6 +55406,7 @@
 ||majdmw.gigasport.at^
 ||profiitsmaks-pl.gigasprofit.com^
 ||thebitcosuprofits-pl.gigasprofit.com^
+||mt.gigazine.net^
 ||gigboost.me^
 ||oascentral.gigex.com^
 ||giggleostentatious.com^
@@ -56706,6 +56716,7 @@
 ||log000.goo.ne.jp^
 ||log999.goo.ne.jp^
 ||owb101.goo.ne.jp^
+||goobefirumaupt.net^
 ||gooblesdd.com^
 ||goobytechnology.com^
 ||marketing.goochandhousego.com^
@@ -67877,6 +67888,7 @@
 ||iowacitytoday.com^
 ||info.iowaeventscenter.com^
 ||app.iowawild.com^
+||ioykmxa.icu^
 ||ip41.ip-146-59-188.eu^
 ||ip42.ip-146-59-188.eu^
 ||ip44.ip-146-59-188.eu^
@@ -68321,6 +68333,7 @@
 ||i16-tb.isnssdk.com^
 ||ichannel.isnssdk.com^
 ||pangolin16.isnssdk.com^
+||rtlog.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
 ||notification.iso-ne.com^
 ||my.iso.com^
@@ -86979,6 +86992,7 @@
 ||seniorliving.mooringsatlewes.org^
 ||mooroore.xyz^
 ||moorshoes.com^
+||mooruptraiks.com^
 ||go.moosehockey.com^
 ||metrics.moosejaw.com^
 ||smetrics.moosejaw.com^
@@ -89974,7 +89988,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -96665,6 +96678,7 @@
 ||etracker.p3p.repl.co^
 ||p3s18f1d0.com^
 ||p3vn.co^
+||p40rlh4k.xyz^
 ||ybfahy.p448.com^
 ||p45m0.icu^
 ||p4r24.eu^
@@ -99311,6 +99325,7 @@
 ||api.pingstart.com^
 ||pinion.gg^
 ||pinjamanelit.top^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -108076,6 +108091,7 @@
 ||qdhyy.cn^
 ||qdlyqbpzfkl.com^
 ||qdmil.com^
+||qdoeki.xyz^
 ||qdotzfy.com^
 ||stats.qdq.com^
 ||mtm.qdqmedia.com^
@@ -108845,6 +108861,7 @@
 ||quietlybananasmarvel.com^
 ||quietscenes.com^
 ||quietumplusquietum.com^
+||quiffredsear.com^
 ||limberf.quigglef.site^
 ||quigrjlow.info^
 ||quik2link.com^
@@ -110063,6 +110080,7 @@
 ||ad.realmcdn.net^
 ||realmdescribe.com^
 ||iot-eu-logser.realme.com^
+||iot-in-logser.realme.com^
 ||iot-logser.realme.com^
 ||realmealshake.com^
 ||realmedia.co.kr^
@@ -128829,6 +128847,7 @@
 ||thruport.com^
 ||mastodon.thrustcarbon.com^
 ||thrustlumpypulse.com^
+||thrzbf.xyz^
 ||rcudsw.ths-net.jp^
 ||thsdbj.com^
 ||thshopee.com^
@@ -129114,6 +129133,7 @@
 ||tiktokclaim.org^
 ||tiktokpanels.com^
 ||tiktokshop13.xyz^
+||log-boot.tiktokv.com^
 ||log31-normal.tiktokv.com^
 ||log53-normal-c-useast1a.tiktokv.com^
 ||log58-normal.tiktokv.com^
@@ -132449,6 +132469,7 @@
 ||origin-tracking.trulia.com^
 ||smetric.trulia.com^
 ||smetrics.trulicity.com^
+||trullercurrant.com^
 ||trullyoutlet.com^
 ||trulydevotionceramic.com^
 ||trulysuitedcharges.com^
@@ -140242,6 +140263,7 @@
 ||w14s58toxo.su^
 ||werbemanager.w24.at^
 ||w24miescie.pl^
+||w2g-mtrx.w2g.tv^
 ||w2mobile-za.com^
 ||w2mobile.com^
 ||a8cv.w2solution.co.jp^
@@ -144055,6 +144077,7 @@
 ||woodhenmils.com^
 ||inencr.woodhouseclothing.com^
 ||arphzc.woodica.pl^
+||woodieababua.com^
 ||woodiessnirl.digital^
 ||rdwwke.woodlanddirect.com^
 ||woodlandsmonthlyelated.com^

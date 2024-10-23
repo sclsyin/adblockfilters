@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241023002217
-! Last modified: 2024/10/23 00:22:17
-! Blocked domains: 150052
+! Version: 20241023091810
+! Last modified: 2024/10/23 09:18:10
+! Blocked domains: 150077
 ! unBlocked domains: 44
 !
 ||00186.shop^
@@ -2465,6 +2465,7 @@
 ||property.472782.bid^
 ||47296536.xyz^
 ||4736.in^
+||47415889.xyz^
 ||5e7c26314c.474b0fa000.com^
 ||www.476601.com^
 ||booking.47845-confirm.com^
@@ -17728,6 +17729,7 @@
 ||affil.atan.cz^
 ||atanorithom.com^
 ||atapgogreen.com^
+||atardrushim.com^
 ||atas.io^
 ||atashows.com^
 ||rowsrm.atasunoptik.com.tr^
@@ -21345,7 +21347,6 @@
 ||somni.banzel.com^
 ||ads.baoangiang.com.vn^
 ||adv.baoangiang.com.vn^
-||baobabsruesome.com^
 ||log.baobackan.com.vn^
 ||ads.baobinhduong.vn^
 ||ads.baobinhthuan.com.vn^
@@ -30399,6 +30400,7 @@
 ||client.botchk.net^
 ||botdetector.ru^
 ||ens.bote.ch^
+||botelpu.com^
 ||reklama.botevgrad.com^
 ||botfaqtor.ru^
 ||web-analytics.botgenes.org^
@@ -32546,6 +32548,7 @@
 ||cablepaddle.com^
 ||som.cablestogo.co.uk^
 ||cabombaskopets.life^
+||cabreminyan.com^
 ||cabusinessdaily.com^
 ||cacaca123.cc^
 ||cacaesthesiaocwer.life^
@@ -35510,6 +35513,7 @@
 ||choafaidoonsoy.net^
 ||choagrie.com^
 ||choakaucmomt.com^
+||choalsegroa.xyz^
 ||choamikr.com^
 ||choang.fun^
 ||choapeek.com^
@@ -45284,6 +45288,7 @@
 ||dn3hksy6kf.com^
 ||dn3y71tq7jf07.cloudfront.net^
 ||dn6rwwtxa647p.cloudfront.net^
+||dn7u3i0t165w2.cloudfront.net^
 ||dna8twue3dlxq.cloudfront.net^
 ||dnacdn.net^
 ||dnainternal.com^
@@ -47001,7 +47006,6 @@
 ||dzdxnbc.xyz^
 ||ms.dzen.ru^
 ||dzgg.com^
-||ima.dzgsm.com^
 ||dziecipolska.com^
 ||dziecko-fundacje24.com^
 ||dziendobry-informacje.com^
@@ -49513,6 +49517,7 @@
 ||tr.communication.enkiapp.io^
 ||tr.mep.enkiapp.io^
 ||tr.news.enkiapp.io^
+||enkvum.xyz^
 ||beetle.enlacepermanente.es^
 ||enlales.com^
 ||enlargementerroronerous.com^
@@ -52902,6 +52907,7 @@
 ||fashiongleam.cam^
 ||fashionhight.com^
 ||jldtlh.fashionnova.com^
+||ldpsh.fashionnova.com^
 ||fashionograf.com^
 ||mchtna.fashionplus.co.kr^
 ||fashionpulse.cam^
@@ -63545,6 +63551,7 @@
 ||go.healthallowancecentre.com^
 ||track.healthandharmony1.com^
 ||healthandsnacks.com^
+||mob2.healthapplines.com^
 ||link.healthbank.io^
 ||clk.healthbestchoice.org^
 ||get.healthbestoffers.site^
@@ -64002,7 +64009,6 @@
 ||hercockremarke.info^
 ||better.herculesrx.com^
 ||hercuthlon.com^
-||www.hercvlesconcrete.com^
 ||herdailylife.com^
 ||herdethi.net^
 ||herdintwillelitt.com^
@@ -67688,6 +67694,7 @@
 ||imcod.net^
 ||imcounting.com^
 ||go.imd.org^
+||metrics.imdb.com^
 ||imdbwatch.com^
 ||imdn.pics^
 ||communication.imec.be^
@@ -75037,6 +75044,7 @@
 ||keepsclean.com^
 ||keepsosto.com^
 ||analytics.keepstreams.com^
+||servo-report.keepstreams.com^
 ||go.keeptruckin.com^
 ||getapp.keepy.me^
 ||secure.keet1liod.com^
@@ -75227,6 +75235,7 @@
 ||kevinrecommends.com^
 ||kevinschartner.com^
 ||kevinsmithson.com^
+||kewal.shop^
 ||kexarvamr.com^
 ||kexihao.xyz^
 ||kexojito.com^
@@ -84213,6 +84222,7 @@
 ||pixel.meteora.us^
 ||meteorclashbailey.com^
 ||meteordentproposal.com^
+||cmp.meteored.com^
 ||meteorsolutions.com^
 ||methodcash.com^
 ||connect.methodisthealthsystem.org^
@@ -85875,6 +85885,7 @@
 ||coviyr.modafurnishings.co.uk^
 ||jswlpe.modainpelle.com^
 ||marketing.modalife.com^
+||modalsaya.xyz^
 ||modamotyl.com^
 ||www.modani.com^
 ||modastro.ee^
@@ -86643,6 +86654,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||mosspf.com^
+||adx.mossru.com^
 ||mossypinebush903.sbs^
 ||mostauthor.com^
 ||mostcoldest.host^
@@ -87720,6 +87732,7 @@
 ||my-promo7.com^
 ||my-ranking.de^
 ||my-rewardsvault.com^
+||my-rudderjolly.com^
 ||my-smbccard.tokyo^
 ||my-softbank-jp.com^
 ||my-soup-blink.com^
@@ -89991,6 +90004,7 @@
 ||news-capufu.com^
 ||news-caxxar.site^
 ||news-caxxar.store^
+||news-cdn.site^
 ||news-center.biz^
 ||news-center.fun^
 ||news-center.shop^
@@ -92543,6 +92557,7 @@
 ||moose.octo.app^
 ||octoads.shop^
 ||octobergypsydeny.com^
+||octoberrates.com^
 ||octobird.com^
 ||octonew.me^
 ||octopod.cc^
@@ -99866,6 +99881,7 @@
 ||placeofentertainment.org^
 ||placeoff.ru^
 ||placeplay.com^
+||placetobeforever.com^
 ||placidactivity.com^
 ||placidocn.com^
 ||placidperson.com^
@@ -102926,6 +102942,7 @@
 ||presentimentguestmetaphor.com^
 ||mysunrise-ch.preservacontabilidade.com.br^
 ||preservealso.com^
+||preservedresentful.com^
 ||offers.preservegold.com^
 ||presetrabbits.com^
 ||presidecookeddictum.com^
@@ -109890,6 +109907,7 @@
 ||qq167.com^
 ||qq188.com^
 ||qq288.com^
+||qq288cm1.com^
 ||qq86tbqodk.ru^
 ||www.qq8788.net^
 ||qq8788viet.com^
@@ -111465,6 +111483,7 @@
 ||rdvinfidele.club^
 ||rdwmct.com^
 ||pokemon-vip.rdx.pl^
+||rdxqbp.xyz^
 ||secure.checkout.re-brand-de.com^
 ||secure.checkout.re-brand-fi.com^
 ||re-captha-version-3-243.buzz^
@@ -112874,7 +112893,7 @@
 ||form.respondi.app^
 ||respondunexpectedalimony.com^
 ||go.respondus.com^
-||ad.responsad1.space^
+||responsad1.space^
 ||olx.response-200.shop^
 ||responserver.com^
 ||xml.responseservez.com^
@@ -115994,6 +116013,7 @@
 ||vinted-pl-gj32d.sangbi.top^
 ||active.sangfor.com^
 ||tech.sangfor.com^
+||sanggauchelys.shop^
 ||sanggilregard.com^
 ||sangleysoldo.com^
 ||data-31c137b707.sanitaerjournal.de^
@@ -120647,6 +120667,7 @@
 ||skrozzleco.shop^
 ||gtm.skrz.cz^
 ||hit.skrz.cz^
+||sksbgm.xyz^
 ||sksds.pages.dev^
 ||sksingh4bjp.com^
 ||sksolutionss.in^
@@ -127168,6 +127189,7 @@
 ||tapwhigwy.com^
 ||ads.tapzin.com^
 ||www.tara-medium.com^
+||tarafnagging.com^
 ||tarbend.online^
 ||smetrics.tarceva.com^
 ||tarehzyr.com^
@@ -131063,6 +131085,7 @@
 ||tipforcefulmeow.com^
 ||tipico.com^
 ||tipicool.com^
+||tipitspart.com^
 ||media.tipjunkie.com^
 ||tipkeomoingay.club^
 ||adebis.tipness.co.jp^
@@ -134899,6 +134922,7 @@
 ||twojezdanie.rest^
 ||twojwybor2023.online^
 ||matomo-app-master.twomenbeta.com^
+||twoter.info^
 ||twovqti.com^
 ||pfn.twpinfm.com^
 ||twrank.com^
@@ -147093,6 +147117,7 @@
 ||yatrk.xyz^
 ||ojmxro.yatsan.com^
 ||yaudience.com^
+||yaupingbought.com^
 ||yautube.com^
 ||yavapainews.com^
 ||yavli.com^

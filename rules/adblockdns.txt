@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241025162242
-! Last modified: 2024/10/25 16:22:42
-! Blocked domains: 155142
+! Version: 20241026002147
+! Last modified: 2024/10/26 00:21:47
+! Blocked domains: 155148
 ! unBlocked domains: 36
 !
 ||0-0.fr^
@@ -48116,6 +48116,7 @@
 ||dshrx.com^
 ||a8cv.dshu.jp^
 ||dauvtt.dsigno.es^
+||dsikpuv.icu^
 ||logapi.dsipsw.net^
 ||dsj66.cn^
 ||dsk-financial.com^
@@ -50075,6 +50076,7 @@
 ||ee88.law^
 ||ee88.plus^
 ||ee88.tips^
+||eeaczcf.icu^
 ||eecheweegru.com^
 ||eechicha.com^
 ||eecmauks.net^
@@ -81477,6 +81479,7 @@
 ||lalabaos1020.top^
 ||lalabaos1021.top^
 ||lalabaos1022.top^
+||lalabaos1025.top^
 ||xgwqvg.lalafel.com^
 ||a8.lalala-clean.com^
 ||lalalove.ru^
@@ -150439,6 +150442,7 @@
 ||wouldmakefeagre.info^
 ||woushucaug.com^
 ||wouvista.com^
+||wouvxlie.top^
 ||wkwrfx.wovenlyrugs.com^
 ||wow-click.click^
 ||swa.wowcher.co.uk^
@@ -151353,6 +151357,7 @@
 ||xhictk.com^
 ||xhit.com^
 ||xhivjkfghj.com^
+||xhm.pub^
 ||xhmnbvn.com^
 ||xhnedvpcml.com^
 ||buzzer.xhofficial.com^
@@ -152449,6 +152454,7 @@
 ||ycmgeb.icu^
 ||ycoipto.com^
 ||ycpwdvsmtn.com^
+||ycq.cab^
 ||ycqbgm.xyz^
 ||ycqrxl.com^
 ||yctszpyse.top^

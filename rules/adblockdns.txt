@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241102002103
-! Last modified: 2024/11/02 00:21:03
-! Blocked domains: 136918
+! Version: 20241102091722
+! Last modified: 2024/11/02 09:17:22
+! Blocked domains: 136935
 ! unBlocked domains: 38
 !
 ||inp0st.0344223.xyz^
@@ -11120,6 +11120,7 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animi2.com^
@@ -20149,6 +20150,7 @@
 ||creative.bidease.com^
 ||track-resource.bidease.com^
 ||track-us.bidease.com^
+||bidehunter.com^
 ||bideo-blog.xyz^
 ||bideo-cdn.com^
 ||bideo-cdn.xyz^
@@ -37496,6 +37498,7 @@
 ||public-trace-http-intake.logs.datadoghq.eu^
 ||rum-http-intake.logs.datadoghq.eu^
 ||xml-v4.datadrives.ai^
+||datafa.st^
 ||app.datafastguru.info^
 ||cfg.datafastguru.info^
 ||pstatic.datafastguru.info^
@@ -52121,6 +52124,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridgejakepreposition.com^
@@ -59107,6 +59111,7 @@
 ||prophet.heise.de^
 ||rl.heise.de^
 ||heisenbergseocompany.com^
+||heiviek.com^
 ||heixbai.com^
 ||heixidor.com^
 ||data-cf8fd9b799.heizungsjournal.de^
@@ -62516,6 +62521,7 @@
 ||ifllwfs.com^
 ||api.iflychat.com^
 ||logconf.iflytek.com^
+||ifmccdn.icu^
 ||research.ifmo.ru^
 ||ifnpost-pl.top^
 ||di.ifolor.ch^
@@ -62797,6 +62803,7 @@
 ||ikouthaupi.com^
 ||ikpowkdsa.info^
 ||q.ikre.xyz^
+||ikspoopfp.com^
 ||ikssllnhrb.com^
 ||ups-org-pl.ikuweb.shop^
 ||dsy-disneyplus.ikwb.com^
@@ -70932,6 +70939,7 @@
 ||kjjjusb.xyz^
 ||kjkulnpfdhn.com^
 ||kjlzt.cn^
+||kjnsgqe.icu^
 ||kjsvvnzcto.com^
 ||kjubky.xyz^
 ||kjuhvbg.top^
@@ -79001,6 +79009,7 @@
 ||strack.mercycareaz.org^
 ||mercyzone.com^
 ||mereanglicanism.com^
+||merelsrealm.com^
 ||meremark.com^
 ||merequartz.com^
 ||go.meretmarine.com^
@@ -81611,6 +81620,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||adx.mossru.com^
+||mossyiapyges.com^
 ||mossypinebush903.sbs^
 ||mostauthor.com^
 ||mostbet-original.ru^
@@ -84558,7 +84568,6 @@
 ||netfirm.biz^
 ||netflix-bhr.com^
 ||netflix-hilfe.com^
-||netflix-logariasmos.com^
 ||netflix-support-account.com^
 ||netflix4u.com^
 ||netflixaccounts.com^
@@ -84876,6 +84885,7 @@
 ||newgeneratorcodes.info^
 ||newgrannypics.com^
 ||promo.newgrowthtrends.com^
+||newgstore.com^
 ||newhacks24.net^
 ||krskux.newhaircaps.com.br^
 ||s.newhamburgindependent.ca^
@@ -92766,6 +92776,7 @@
 ||marketing.plastiq.com^
 ||plastleislike.com^
 ||platchteopan.com^
+||platedmanlily.com^
 ||mt.plateiq.com^
 ||plateruena.com^
 ||platform-hetcash.com^
@@ -101247,6 +101258,7 @@
 ||rbfour.bid^
 ||rbhunp.xyz^
 ||statistics.rbi-nl.com^
+||rbift.icu^
 ||mailer.rbis-averydennison.com^
 ||sdc.rbistats.com^
 ||rbiwpiccr.top^
@@ -110085,6 +110097,7 @@
 ||skuligpzifan.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
+||skullmagnets.com^
 ||skullypower.com^
 ||skunkfunkcrypto.com^
 ||skunscold.top^
@@ -113483,6 +113496,7 @@
 ||tfomk.steamingmugcafe.com^
 ||steamkeygiveaway.com^
 ||steamkeysfree.com^
+||steammcommunuty.ru^
 ||steamqr.site^
 ||steamtestdeadlock.com^
 ||steamunlock.com^
@@ -128854,6 +128868,7 @@
 ||vui-vay.com^
 ||vuigiaitri.online^
 ||vuiluaz.xyz^
+||vuirssd.icu^
 ||vuittonu.com^
 ||vuiuk88.club^
 ||vujriahqyleveh.com^
@@ -132134,6 +132149,7 @@
 ||article.wmc-media.com^
 ||polska.wmc-media.com^
 ||wmcasher.ru^
+||wmcbld.top^
 ||wmcdpt.com^
 ||wmdzefk.com^
 ||wmeexclusivecourrierservice.com^
@@ -134610,6 +134626,7 @@
 ||yeseid.com^
 ||yesflix.live^
 ||yesflix.online^
+||yesgwyn.com^
 ||ads.yeshanews.com^
 ||bi.yeshen.com^
 ||launcher.us.yeshen.com^

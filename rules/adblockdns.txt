@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241111001851
-! Last modified: 2024/11/11 00:18:51
-! Blocked domains: 160062
+! Version: 20241111091853
+! Last modified: 2024/11/11 09:18:53
+! Blocked domains: 160086
 ! unBlocked domains: 22
 !
 ||votebright.000.pe^
@@ -18029,6 +18029,7 @@
 ||avocadot.com^
 ||avocams.com^
 ||avocarrot.com^
+||avocetriches.com^
 ||avoda-mehabait.co.il^
 ||avoidaroid.com^
 ||avoihyfziwbn.com^
@@ -31119,6 +31120,7 @@
 ||cautiouscherries.com^
 ||cautiouscrate.com^
 ||cautiouscredit.com^
+||cautiouslyanalysecrystal.com^
 ||cautismsol.com^
 ||cauvousy.net^
 ||cauyuksehink.info^
@@ -31289,6 +31291,7 @@
 ||sts.ccmp.eu^
 ||ccn08sth.de^
 ||ccnnetwork.co^
+||ccobksxz.icu^
 ||ccorreoscl.com^
 ||ccothewhiteglove.com^
 ||www.ccpcusco.org^
@@ -39052,6 +39055,7 @@
 ||cskh-dienmay-xanh.com^
 ||cskh-the-vpbank.com^
 ||csktv98.com^
+||csldbxey.com^
 ||csm1clfis.top^
 ||csmgdynia.com^
 ||csmining.world^
@@ -41382,6 +41386,7 @@
 ||dcdftrust.org^
 ||dcfnihzg81pa.com^
 ||portal.dcgone.com^
+||dchdmhf.cn^
 ||dchlabs.com^
 ||dchxxtrxhsjnr.com^
 ||dchyjb.xyz^
@@ -43555,6 +43560,7 @@
 ||dimnessinvokecorridor.com^
 ||dimnessslick.com^
 ||dimondlocksmith.com^
+||dimpledplan.pro^
 ||info.dimplexthermal.com^
 ||dimpoaghoorg.net^
 ||www.dimsummedford.com^
@@ -54393,6 +54399,7 @@
 ||findyourhalf.live^
 ||findyourlovemate.com^
 ||findyourpussy.net^
+||fine-click.pro^
 ||fine-cloud.net^
 ||fine.bet^
 ||a8clk.hoiku.fine.me^
@@ -66360,6 +66367,7 @@
 ||mail.hapvidacaruaru.com.br^
 ||hapyak.com^
 ||haqable.com^
+||haqafzlur.com^
 ||banners.haqqin.az^
 ||haqybeesoa.org^
 ||har-beacon.har.com^
@@ -68276,6 +68284,7 @@
 ||highperformancecpmnetwork.com^
 ||highperformancedformats.com^
 ||highperformancedisplayformat.com^
+||highperformanceformat.com^
 ||highperformancegate.com^
 ||marketing.highpoint.com^
 ||highpro1.com^
@@ -72502,6 +72511,7 @@
 ||ideibiznesa2015.ru^
 ||ssc.idelreal.org^
 ||ideng.com^
+||identicalprofile.com^
 ||identifierssadlypreferred.com^
 ||identifyillustration.com^
 ||smetrics.identityguard.com^
@@ -83536,6 +83546,7 @@
 ||koazowapsib.net^
 ||a8cv.kobe38.com^
 ||kobeden.com^
+||kobel.services^
 ||vqvuid.kobetsu.co.jp^
 ||adsrv.kobi.tv^
 ||tools.kobieta.pl^
@@ -99540,6 +99551,7 @@
 ||navi-match.net^
 ||m.navi.com^
 ||navi.limited^
+||navi1.ru^
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
@@ -99558,6 +99570,7 @@
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
+||navi32.ru^
 ||navi33.com^
 ||navi35.com^
 ||navi35.ru^
@@ -99568,6 +99581,7 @@
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
+||navi5.ru^
 ||navi50.com^
 ||navi53.com^
 ||navi54.com^
@@ -101481,6 +101495,7 @@
 ||nip4.com^
 ||nip5.com^
 ||nip57.com^
+||nip76.com^
 ||nip8.com^
 ||nipausa.com^
 ||nipcrater.com^
@@ -112955,6 +112970,7 @@
 ||profitable-turkey-investments.info^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
+||profitablecpmrate.com^
 ||profitablecreativeformat.com^
 ||profitabledisplaycontent.com^
 ||profitabledisplayformat.com^
@@ -121015,6 +121031,7 @@
 ||www.risk8belt.com^
 ||riskcontrolbase.xyz^
 ||riskelaborate.com^
+||riskexcel.com^
 ||riskhector.com^
 ||beacon.riskified.com^
 ||c.riskified.com^
@@ -123857,6 +123874,7 @@
 ||satisfactionretirechatterbox.com^
 ||satisfactorilyfigured.com^
 ||satisfactoryhustlebands.com^
+||satisfactorymetalrub.com^
 ||satisfied-tour.pro^
 ||satisfycork.com^
 ||satlockspa.live^
@@ -126085,6 +126103,7 @@
 ||sevegasnews.com^
 ||txpbnm.sevellia.com^
 ||seven-news.biz^
+||sevenbuzz.com^
 ||link.sevencooks.com^
 ||sevensteel.com.tr^
 ||aiq-in.seventeen.com^
@@ -130573,6 +130592,7 @@
 ||sopital.com^
 ||ts.sopornvideos.com^
 ||soportegira.net^
+||sopqvhe.cn^
 ||news.soptv.ws^
 ||mail.sorbeadindias.com^
 ||sordimtaulee.com^
@@ -132124,6 +132144,7 @@
 ||stalkanalysis.ru^
 ||stalkforx.ru^
 ||stallioncredit.com^
+||stallionshootimmigrant.com^
 ||stallionsmile.com^
 ||stallsmalnutrition.com^
 ||staltoumoaze.com^
@@ -132631,6 +132652,7 @@
 ||tfomk.steamingmugcafe.com^
 ||steamjaws.com^
 ||steamkeygiveaway.com^
+||steammcommunuty.ru^
 ||amz.steamprices.com^
 ||steamproxy.net^
 ||images.steamray.com^
@@ -135359,6 +135381,7 @@
 ||tahastpkuosq.com^
 ||tahoesup.com^
 ||tahoviecuy.org^
+||tahrsli.com^
 ||tahznx.xyz^
 ||tai-sumvip.city^
 ||tai567live.vip^
@@ -147179,6 +147202,7 @@
 ||utbjsbhasf.com^
 ||utbusinessdaily.com^
 ||utbyte.io^
+||utbyvyl.icu^
 ||i.utdstc.com^
 ||s.utdstc.com^
 ||smetrics.utech-polyurethane.com^

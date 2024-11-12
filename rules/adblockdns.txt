@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241112162222
-! Last modified: 2024/11/12 16:22:22
-! Blocked domains: 150038
+! Version: 20241113002223
+! Last modified: 2024/11/13 00:22:23
+! Blocked domains: 150063
 ! unBlocked domains: 46
 !
 ||0-0.fr^
@@ -3321,7 +3321,6 @@
 ||6747785b1d.com^
 ||alebilet.675490.cfd^
 ||tracker.6756wasdf.com^
-||f7642e332d.6771600c3f.com^
 ||s-reg-aktiv.677539.com^
 ||67777.tv^
 ||9179ef7ec3.6778056ac3.com^
@@ -12132,7 +12131,6 @@
 ||animeplaynow.com^
 ||animeshoppers.com^
 ||api.animeshqip.icu^
-||notifications.animeshqip.info^
 ||animi2.com^
 ||animits.com^
 ||dinocraft.animocabrands.com^
@@ -17188,6 +17186,7 @@
 ||track.atgstores.com^
 ||recs.atgsvcs.com^
 ||static.atgsvcs.com^
+||athalarilouwo.net^
 ||athaqofy.com^
 ||athbashara.com^
 ||athbzeobts.com^
@@ -30700,7 +30699,7 @@
 ||bulisite.top^
 ||ads.buljobs.bg^
 ||bulkaccompanying.com^
-||uk.bulkagetufas.com^
+||bulkagetufas.com^
 ||marketing.bulkbookstore.com^
 ||www.bulkclicks.com^
 ||bulkconflictpeculiarities.com^
@@ -30871,6 +30870,7 @@
 ||ads.buscouniversidad.com^
 ||tracking.busenladies.de^
 ||bushedcoldest.com^
+||busherdebates.com^
 ||bushesbag.com^
 ||bushgardenwell.com^
 ||bushhybeauty.cam^
@@ -34567,6 +34567,7 @@
 ||chori3oiwtb.click^
 ||choruscompanion.com^
 ||choruslockdownbumpy.com^
+||chorwatcurlike.com^
 ||choseing.com^
 ||chosenchampagnesuspended.com^
 ||chosentalladvanced.com^
@@ -39804,6 +39805,7 @@
 ||sp380878.sitebeat.crazydomains.com^
 ||crazyegg.com^
 ||analytics.crazygames.com^
+||cza.crazygames.com^
 ||mafvertizing.crazygames.com^
 ||rafvertizing.crazygames.com^
 ||wafvertizing.crazygames.com^
@@ -40209,12 +40211,12 @@
 ||crumbtypewriterhome.com^
 ||crummygoddess.com^
 ||track.crumobiapps.com^
-||lb.crumpedglome.com^
+||crumpedglome.com^
 ||crumplylenient.com^
 ||crunchfaq.com^
 ||crunchybears.com^
 ||crunchycoders.com^
-||uc.cruorinalgesic.com^
+||cruorinalgesic.com^
 ||rdvxxx.crushj.com^
 ||crustwebsites.net^
 ||crutop.nu^
@@ -58522,6 +58524,7 @@
 ||geephenuw.com^
 ||geerairu.net^
 ||geeseempire.com^
+||geeseruesome.com^
 ||geetacog.xyz^
 ||geetarecipes.com^
 ||geethaihoa.com^
@@ -77114,6 +77117,7 @@
 ||jiferiu.info^
 ||tracking.jiffyworld.com^
 ||jigavlogs.com^
+||jiggleowk.com^
 ||jighucme.com^
 ||jignairy.com^
 ||jigsawbanana.com^
@@ -82112,6 +82116,7 @@
 ||learntinga.com^
 ||learnweb4.com^
 ||anx.learnwithhomer.com^
+||leasedrowte.com^
 ||leaseearth.com^
 ||marketing.leasehawk.com^
 ||leasemiracle.com^
@@ -84250,6 +84255,7 @@
 ||loot-skins.com^
 ||loot.bet^
 ||lootcad.xyz^
+||lootcs.com^
 ||lootdeck.com^
 ||lootexhausted.com^
 ||loothoushu.com^
@@ -90479,6 +90485,7 @@
 ||go.monotaro.com^
 ||monotonnaoraz.rest^
 ||kfndek.monoweek.com^
+||monpaquet9trackpobox.com^
 ||monplacementmalin.com^
 ||monroenynews.com^
 ||monroereview.com^
@@ -92067,6 +92074,7 @@
 ||www.mycpvlife.com^
 ||mycrackfree.com^
 ||mycreditcounselor.org^
+||mycuegxt.com^
 ||mycuisson.com^
 ||mycured.com^
 ||mycutiebaby.com^
@@ -93533,6 +93541,7 @@
 ||secure.neck6bake.com^
 ||data-9c9d7ad92f.neckar-chronik.de^
 ||al.neckar.jp^
+||neckedhilting.com^
 ||neckloveham.live^
 ||lpbhnv.necn.com^
 ||metrics.necn.com^
@@ -100874,6 +100883,7 @@
 ||paradisenookminutes.com^
 ||paradiseofhacks.com^
 ||paradisepaaya.xyz^
+||paradisevs.com^
 ||paradisewin.com^
 ||paradizeconstruction.com^
 ||parado.pl^
@@ -101839,6 +101849,7 @@
 ||peakcounter.dk^
 ||marketing.peakfinancialfreedomgroup.com^
 ||smetrics.peakperformance.com^
+||peanutsfuscin.com^
 ||azveac.pearl.ch^
 ||pearldiver.io^
 ||smetrics.pearlevision.ca^
@@ -108903,6 +108914,7 @@
 ||psychedelicchess.com^
 ||track.info.psychiatryadvisor.com^
 ||hslkll.psychic.de^
+||psychicendozoa.com^
 ||psychicmoonlive.com^
 ||www.psychics-readings-for-free.com^
 ||psycho-test.fr^
@@ -113905,6 +113917,7 @@
 ||reate.info^
 ||reathe.top^
 ||millennium.reativar-conta.com^
+||reatushaithal.com^
 ||go.rebag.com^
 ||rebatelirate.top^
 ||rebeccakellyphotography.com^
@@ -114311,6 +114324,7 @@
 ||refreshingsips.cyou^
 ||refreshmentwaltzimmoderate.com^
 ||refrigeratespinsterreins.com^
+||refulgebesague.com^
 ||refund.sh^
 ||refundaip.top^
 ||refuseddissolveduniversity.com^
@@ -115723,6 +115737,7 @@
 ||rjw4obbw.com^
 ||rjwc95.com^
 ||rjwljrf.xyz^
+||rjwpwod.icu^
 ||ignlnmzi.rjxj.xyz^
 ||incsh.rjxj.xyz^
 ||rkapghq.com^
@@ -118441,6 +118456,7 @@
 ||info.schmidt-na.com^
 ||schmittner.us^
 ||schmoonvcq.com^
+||schmoosspue.com^
 ||join.schmooze.tech^
 ||ads.schmoozecom.net^
 ||data-96d64cb150.schnapp.de^
@@ -120352,6 +120368,7 @@
 ||sheefursoz.com^
 ||sheegiwo.com^
 ||tp.sheego.de^
+||sheeltaibu.net^
 ||sheeme.com^
 ||smetrics.sheen.jp^
 ||sheeneudner.life^
@@ -123174,6 +123191,7 @@
 ||soocaips.com^
 ||soogandrooped.cam^
 ||soojoafaleh.com^
+||sookypapoula.com^
 ||soom.la^
 ||soonerstatenews.com^
 ||soonlint.com^
@@ -125321,7 +125339,9 @@
 ||same.stockstar.com^
 ||stocktwists.com^
 ||tr.contact.stof.fr^
+||stogiescounter.com^
 ||cdn.stoic-media.com^
+||stoicpre.com^
 ||ads.stoiximan.gr^
 ||dc.stokke.com^
 ||cheetah.stolenboats.info^
@@ -125814,6 +125834,7 @@
 ||yleied.stuhrling.com^
 ||stummedperca.top^
 ||stumtererum.com^
+||stunkrins.com^
 ||milk.supertool.stunnermedia.com^
 ||stunning-lift.com^
 ||stunninglover.com^
@@ -126365,7 +126386,6 @@
 ||www55.superembed.com^
 ||www63.superembed.com^
 ||lpzxed.superesportes.com.br^
-||herring.superfast.dev^
 ||superfastcdn.com^
 ||superfastmediation.com^
 ||mtcvyv.superfb.com^
@@ -127652,7 +127672,7 @@
 ||taichinhbank.com.vn^
 ||taichinheximbak.com^
 ||taichinhthongminh.online^
-||ap.taichnewcal.com^
+||taichnewcal.com^
 ||taichoang.fun^
 ||taichoihu.net^
 ||taidainy.net^
@@ -136284,6 +136304,7 @@
 ||qc.ultraviewer.net^
 ||track.ultravpn.com^
 ||ultravpnoffers.com^
+||ultrawa.com^
 ||advert.dyna.ultraweb.hu^
 ||stat.dyna.ultraweb.hu^
 ||en.ultrex.ru^
@@ -144058,6 +144079,7 @@
 ||whittlebee.com^
 ||whitwaedsateing.pro^
 ||whizzco.com^
+||whizzerrapiner.com^
 ||applink.whizzl.com^
 ||l.whizzl.com^
 ||axp.whnt.com^
@@ -145625,6 +145647,7 @@
 ||wrhappliancerepair.com^
 ||axp.wric.com^
 ||wrig.pl^
+||wrinkleinworn.shop^
 ||wrinkleirritateoverrated.com^
 ||wristhunknagging.com^
 ||wristtrunkpublication.com^
@@ -146319,6 +146342,7 @@
 ||brick.xhamster.com^
 ||cnt.xhamster.com^
 ||collector.xhamster.com^
+||collector-direct.xhamster.com^
 ||collector1.xhamster.com^
 ||m2.xhamster.com^
 ||partners.xhamster.com^
@@ -146336,6 +146360,7 @@
 ||collector.xhamster3.com^
 ||marine.xhamster3.com^
 ||port7.xhamster3.com^
+||collector.xhamsterporno.mx^
 ||xhbheroq.xyz^
 ||xhbshv.xyz^
 ||xhbulmpl.com^

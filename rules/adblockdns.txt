@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241113002223
-! Last modified: 2024/11/13 00:22:23
-! Blocked domains: 150063
+! Version: 20241113091751
+! Last modified: 2024/11/13 09:17:51
+! Blocked domains: 150070
 ! unBlocked domains: 46
 !
 ||0-0.fr^
@@ -16769,6 +16769,7 @@
 ||metrics.asos.com^
 ||metric.asos.de^
 ||creativeassets.asosservices.com^
+||rapid-glade-cde8.asoumare042024.workers.dev^
 ||asound.no^
 ||asoursuls.com^
 ||asozordoafie.com^
@@ -18847,6 +18848,7 @@
 ||avsink3431.fun^
 ||avskjvlays.info^
 ||avskype.com^
+||avspda.xyz^
 ||avsplow.com^
 ||avsvmcloud.com^
 ||track.avt.pl^
@@ -58466,6 +58468,7 @@
 ||gdmconvtrck.com^
 ||www.gdmengyi.com^
 ||gdmgsecure.com^
+||gdpr-legal-cookie.com^
 ||gdpr.es^
 ||www.gdprdataprotectionofficer.com^
 ||ssl2.gdqifang.com^
@@ -59244,6 +59247,7 @@
 ||ghazel.ru^
 ||hchlqx.ghbass.com^
 ||ghbdsbfd.com^
+||gheqien.com^
 ||ghgasdt963.shop^
 ||ghiftshop.com^
 ||ghldemo.com^
@@ -82133,6 +82137,7 @@
 ||leaterplus.com.ua^
 ||leatheringwordes.pro^
 ||leatmansures.com^
+||stats.leavemealone.com^
 ||leaveoverwork.com^
 ||leavesofgrassmovie.com^
 ||leaveundo.com^
@@ -83973,6 +83978,7 @@
 ||locomotivetroutliquidate.com^
 ||analysis.aws.locondo.jp^
 ||go.locosonic.com^
+||locpikbb.icu^
 ||locrian-verbena-aerosteon.glitch.me^
 ||azwucq.locservice.fr^
 ||loctan675550.vercel.app^
@@ -89182,6 +89188,7 @@
 ||tracking.mizuhogroup.com^
 ||mizzen.com.ph^
 ||mj-snowplow-static-js.s3.amazonaws.com^
+||mjbidlg.icu^
 ||mjhygiene.com^
 ||mjlunalaw.com^
 ||mjmobi.com^

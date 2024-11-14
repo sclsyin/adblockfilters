@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241114002202
-! Last modified: 2024/11/14 00:22:02
-! Blocked domains: 168376
+! Version: 20241114091759
+! Last modified: 2024/11/14 09:17:59
+! Blocked domains: 168403
 ! unBlocked domains: 50
 !
 ||0-0.fr^
@@ -16158,6 +16158,7 @@
 ||a8clk.ato-barai.com^
 ||ato.mx^
 ||atoblog.online^
+||atodiler.com^
 ||atoffers.com^
 ||atoins.com^
 ||info.atom-story.com^
@@ -17546,6 +17547,7 @@
 ||awhausaifoog.com^
 ||awheecethe.net^
 ||awhiledad.com^
+||awhilediplomagloss.com^
 ||awhoupsou.com^
 ||analytics.awhr.com^
 ||a18348.awicksin.com^
@@ -18406,6 +18408,7 @@
 ||bagkakaku.com^
 ||baglanbize.net^
 ||bagly.co.il^
+||bagpipemonogamypercent.com^
 ||bagsdeuter.com^
 ||bagslap.com^
 ||iimmoz.bagsonline.de^
@@ -23298,6 +23301,7 @@
 ||ad.bilgin.pro^
 ||tracking.health.bilh.org^
 ||sitesandbox.bilhetepremium.com^
+||grpc.biliapi.net^
 ||data.bilibili.com^
 ||line1-log.biligame.net^
 ||bilightonline.com^
@@ -23446,7 +23450,6 @@
 ||binomo.in^
 ||binomo.info^
 ||binomo.vip^
-||binomo2022.net^
 ||binomocadastro.com^
 ||binomoentrar.com^
 ||binomoindonesia.com^
@@ -27166,6 +27169,7 @@
 ||boilerefforlessefforlessregistered.com^
 ||boilerertechs.com^
 ||boilermakingkawer.life^
+||boilhumoristpacifist.com^
 ||boilingloathe.com^
 ||boilingviewed.com^
 ||boilslashtasted.com^
@@ -29219,6 +29223,7 @@
 ||builtinintriguingchained.com^
 ||builtinproceeding.com^
 ||bujerdaz.com^
+||bujlmitd.icu^
 ||bujo.li^
 ||hbaazk.bukalapak.com^
 ||buketeg.xyz^
@@ -35123,6 +35128,7 @@
 ||clooinfor.cf^
 ||cloopcard.com^
 ||cloost.com^
+||closablemardistiffness.com^
 ||closealert.com^
 ||closeattended.com^
 ||closedcows.com^
@@ -38001,6 +38007,7 @@
 ||experiencia.coopecaja.fi.cr^
 ||forms.cooperaerobics.com^
 ||cooperateboneco.com^
+||cooperation-odoo.com^
 ||sst.cooperativa.cl^
 ||cooperativechuckledhunter.com^
 ||cooperativevpn.com^
@@ -42983,6 +42990,7 @@
 ||delhack.net^
 ||affilbox.delibarry.com^
 ||deliberategerman.com^
+||delicatedimlysloppy.com^
 ||delicateomissionarched.com^
 ||delicatereliancegodmother.com^
 ||deliciouscloud.com^
@@ -49822,6 +49830,7 @@
 ||ekwa-clientbackup.info^
 ||ekwzxay.com^
 ||ekxyrwvoegb.xyz^
+||ekyfoa.shop^
 ||ekykse.xyz^
 ||ekzao.net^
 ||ekzark.com^
@@ -50300,6 +50309,7 @@
 ||elon-promo.com^
 ||elondonald.com^
 ||elongatedmiddle.com^
+||elongives.net^
 ||elonreevemusk.com^
 ||elonreptiloid.com^
 ||elonweb.org^
@@ -50490,6 +50500,7 @@
 ||embezzlementthemselves.com^
 ||embi-media.com^
 ||emblazonedq.shop^
+||emblemexceptionscorer.com^
 ||smetrics.emblemhealth.com^
 ||embodygoes.com^
 ||embogsoarers.com^
@@ -54421,6 +54432,7 @@
 ||factorygrand.com^
 ||factorysale2023.com^
 ||factosphere.com^
+||factsheetgrievancekeg.com^
 ||facturacioninfo-cl.com^
 ||facturapostpago.com^
 ||4406fd3cbb.fad1ef26a9.com^
@@ -58647,6 +58659,7 @@
 ||foundchoked.com^
 ||founderskating.com^
 ||foundexperience.com^
+||foundinggulfsaturate.com^
 ||foundry42.com^
 ||foundtr.com^
 ||app.fount.bio^
@@ -59520,6 +59533,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -62193,6 +62207,7 @@
 ||getmyassignments.com^
 ||clk.getmycashcard.com^
 ||getmyfile.org^
+||getmytralala.com^
 ||cvoddu.getnamenecklace.com^
 ||getnapa.com^
 ||getnaughty.com^
@@ -62478,6 +62493,7 @@
 ||ggmxtaluohw.com^
 ||ggooogle.com^
 ||app.ggpoker.co.uk^
+||ggreatstuff.com^
 ||ggsaffiliates.com^
 ||ggsfq.com^
 ||ggsfq.xyz^
@@ -63998,6 +64014,7 @@
 ||owb101.goo.ne.jp^
 ||goo02.shop^
 ||gooagle.top^
+||goobakocaup.com^
 ||goobbe.com^
 ||goobefirumaupt.net^
 ||goobreamed.com^
@@ -70345,6 +70362,7 @@
 ||trk.huskerharvestdays.com^
 ||app.huskers.com^
 ||t.huskers.com^
+||huskinessimminentstylus.com^
 ||huskypartydance.com^
 ||na-pages.husqvarna.com^
 ||husqvarnaoutlet.shop^
@@ -74363,6 +74381,7 @@
 ||interestingpracticable.com^
 ||interestmoments.com^
 ||interestsubsidereason.com^
+||interesttingg.com^
 ||interesttoup.news^
 ||convention.interfaceflor.com^
 ||ads.interfacelift.com^
@@ -90508,6 +90527,7 @@
 ||wt.manplay.com^
 ||manpoint.cc^
 ||manpoint.vip^
+||manpowerspiritualunrented.com^
 ||manpuku-ja.com^
 ||manpuku-ja.jp^
 ||manradisa.com^
@@ -92853,6 +92873,7 @@
 ||data.memurlar.net^
 ||data-3b127a6eb1.mena-watch.com^
 ||menacehabit.com^
+||menacing-feature.pro^
 ||mename.de^
 ||menane.top^
 ||menaon.com^
@@ -100005,7 +100026,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -104505,6 +104525,7 @@
 ||ogicatius.com^
 ||oginject.co^
 ||a.ogio.com^
+||ogkvkuvfy.com^
 ||ogladaj-online.pl^
 ||ogladaj.eu^
 ||ogladaj.link^
@@ -115017,6 +115038,7 @@
 ||producthub.info^
 ||segment-cdn.producthunt.com^
 ||scallop.productionrails.com^
+||productive-chemical.pro^
 ||productolures.com^
 ||analytics.productreview.com.au^
 ||tgmklw.productreview.com.au^
@@ -139991,6 +140013,7 @@
 ||autotrack.studyquicks.com^
 ||stats.studyquicks.com^
 ||studyunharmedupscale.com^
+||cdn-defac18.studyzone-investmentguru.com^
 ||adfeeds.stuff.co.nz^
 ||ads-api.stuff.co.nz^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
@@ -143295,6 +143318,7 @@
 ||techpump.com^
 ||techques.com^
 ||saa.techrepublic.com^
+||cdn-defac13.techresource.shop^
 ||analytics33.techsmith.com^
 ||techspecndt.com^
 ||techstats.net^
@@ -145128,6 +145152,7 @@
 ||thabet88.info^
 ||thabet88.vip^
 ||banner.thadaco.vn^
+||thads.cc^
 ||thaibasilchantilly.com^
 ||thaicasinosonline.net^
 ||thaickoo.net^
@@ -151427,6 +151452,7 @@
 ||www2.postgrados.udp.cl^
 ||udraokrou.com^
 ||udrig.com^
+||udrop.com^
 ||udsahkln.xyz^
 ||udswai.xyz^
 ||hit-counter.udub.com^
@@ -160284,6 +160310,7 @@
 ||link.wetrade.app^
 ||analytics-v2.wetransfer.com^
 ||backgrounds.wetransfer.net^
+||creatives.wetransfer.net^
 ||wetryprogress.com^
 ||wetsireoverload.com^
 ||data-004e4e6793.wetter.at^

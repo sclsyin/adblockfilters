@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241115162254
-! Last modified: 2024/11/15 16:22:54
-! Blocked domains: 130712
+! Version: 20241116002240
+! Last modified: 2024/11/16 00:22:40
+! Blocked domains: 130716
 ! unBlocked domains: 46
 !
 ||tkkk.001122.cc^
@@ -66478,6 +66478,7 @@
 ||indiapostut.vip^
 ||ads.indiaresults.com^
 ||indiaroundup.com^
+||agi-static.indiatimes.com^
 ||etx.indiatimes.com^
 ||ibeat.indiatimes.com^
 ||mobileads.indiatimes.com^
@@ -84756,6 +84757,7 @@
 ||prp1.moengage.com^
 ||prpwebpushdemo.moengage.com^
 ||sdk-02.moengage.com^
+||sdk-04.moengage.com^
 ||shopclues.moengage.com^
 ||websdk.moengage.com^
 ||moesweetsboutique.com^
@@ -112250,6 +112252,7 @@
 ||www.sweetsigh.com^
 ||joint.sweettspot.trade^
 ||support-v2.sweetwaternow.com^
+||sweisib.top^
 ||swellingconsultation.com^
 ||swellsup.com^
 ||swelltouching.com^
@@ -130001,6 +130004,7 @@
 ||os-mon.zijieapi.com^
 ||polaris.zijieapi.com^
 ||saveu5-normal-lq.zijieapi.com^
+||vcs.zijieapi.com^
 ||download.zikirapp.com^
 ||zikroarg.com^
 ||link.zikto.com^

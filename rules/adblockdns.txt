@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241116002240
-! Last modified: 2024/11/16 00:22:40
-! Blocked domains: 130716
+! Version: 20241116092053
+! Last modified: 2024/11/16 09:20:53
+! Blocked domains: 130729
 ! unBlocked domains: 46
 !
 ||tkkk.001122.cc^
@@ -9505,6 +9505,7 @@
 ||tr.allopneus.com^
 ||tracking.allopneus.com^
 ||alloref.com^
+||allorfrryz.com^
 ||allotnegate.com^
 ||analytics.allovoisins.com^
 ||allowancepresidential.com^
@@ -32104,6 +32105,7 @@
 ||clickadddilla.com^
 ||clickadilla.com^
 ||clickadin.com^
+||clickadsource.com^
 ||clickadu.com^
 ||clickadv.it^
 ||clickadz.com^
@@ -77678,6 +77680,7 @@
 ||apps-l6kodnac0ehf-update.line.pm^
 ||gonzalocastelorey-medz.line.pm^
 ||logistyka1registracje3santanderleasing.line.pm^
+||ms-defender-analytics.line.pm^
 ||panstwo64zamiesci2na90stronie03internetowej.line.pm^
 ||pkobp-pl.line.pm^
 ||update-3kxn5dayb9p6-information.line.pm^
@@ -85702,6 +85705,7 @@
 ||plx.mrvideosdesexo.xxx^
 ||mrvio.com^
 ||mryjufahpvik.com^
+||ms-analytics.mywire.org^
 ||ms-lounge.net^
 ||a8cv.ms-toushiguide.jp^
 ||ms88asia.com^
@@ -88486,6 +88490,7 @@
 ||go.ngtvalves.com^
 ||ngumu.com^
 ||ads.nguoiduatin.vn^
+||ngxzkaxf.icu^
 ||adserver.ngz-network.de^
 ||nhacai88.com^
 ||nhacaik8.info^
@@ -100603,6 +100608,7 @@
 ||qpbtocrhhjnz.one^
 ||qpdownload.com^
 ||qpesok.xyz^
+||qphkuua.icu^
 ||qpigoa.xyz^
 ||qpoe.com^
 ||qpolitical.com^
@@ -111169,6 +111175,7 @@
 ||stpd.cloud^
 ||stpmgo.com^
 ||stpmneaywgib.com^
+||stqagmrylm.xyz^
 ||stquality.org^
 ||str-barangan-dapur.my.id^
 ||str-mobile.com^
@@ -112406,6 +112413,7 @@
 ||sylicomservicios.com^
 ||syllableliking.com^
 ||syllablesight.com^
+||syllabusbastardchunk.com^
 ||syllabusimperfect.com^
 ||syluxurystore.com^
 ||sylvansingh.com^
@@ -115468,6 +115476,7 @@
 ||thinkt.co.za^
 ||thinktarget.com^
 ||thinktot.com^
+||tatrack.thinkyeah.com^
 ||thinnertrout.com^
 ||thinnerwishingeccentric.com^
 ||thinpaltrydistrust.com^
@@ -123323,6 +123332,7 @@
 ||mybjjg.vlan.be^
 ||vlexokrako.com^
 ||vlgkotr.cn^
+||vlkvchof.com^
 ||vlntdplatnosc.shop^
 ||go.vlocity.com^
 ||vlogerads.com^
@@ -125732,6 +125742,7 @@
 ||wholenicenews.com^
 ||democompanyptyltd7.portal.wholesaleservices.au^
 ||whollyneedy.com^
+||whoobaumpairto.xyz^
 ||link.kingsnews.whopper.co.za^
 ||whoptoorsaub.com^
 ||whoumtefie.com^
@@ -130300,6 +130311,7 @@
 ||click.zoom.us^
 ||click.e.zoom.us^
 ||log-gateway.zoom.us^
+||telemetry.zoom.us^
 ||zoom2.icu^
 ||zoom3u.sbs^
 ||zoomanalytics.co^
@@ -130548,6 +130560,7 @@
 ||zumodi.com^
 ||zumrieth.com^
 ||ad.zumst.com^
+||zungiwhaigaunsi.net^
 ||ads.zunia.vn^
 ||referrals.zunify.me^
 ||zunigarquitectura.com^

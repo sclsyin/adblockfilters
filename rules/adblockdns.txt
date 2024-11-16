@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241116162113
-! Last modified: 2024/11/16 16:21:13
-! Blocked domains: 154932
+! Version: 20241117002141
+! Last modified: 2024/11/17 00:21:41
+! Blocked domains: 154959
 ! unBlocked domains: 33
 !
 ||00808.vip^
@@ -2054,6 +2054,7 @@
 ||86db9e5725.3a566f6dd0.com^
 ||d95a982a89.3a9e260227.com^
 ||3acf699e5d.com^
+||3ad2ae645c.com^
 ||www.3alian.net^
 ||3am.info^
 ||3animalsex.com^
@@ -10123,6 +10124,7 @@
 ||alfatarget.ru^
 ||alfatnabeauty.com^
 ||alfcasino.com^
+||alfelixstownrus.org^
 ||alfelixstownrusis.info^
 ||alfolw.dk^
 ||alfonsus.net^
@@ -12369,6 +12371,7 @@
 ||antorchasdehumo.com^
 ||antpeelpiston.com^
 ||ipv4.antradar.com^
+||antralhokier.shop^
 ||ants.vn^
 ||anttere.com^
 ||antucraser.xyz^
@@ -26913,6 +26916,7 @@
 ||botswanpost.top^
 ||kagjin.bottegaverde.it^
 ||takin.bottlebeagle.com^
+||bottledchagrinfry.com^
 ||bottledfriendship.com^
 ||bottleguy.com^
 ||bottlep.life^
@@ -27976,6 +27980,7 @@
 ||jupiter-e.bstcorlon.care^
 ||bstlnk.com^
 ||bstn-14-ma.com^
+||bsvhxfxckrmixla.xyz^
 ||bsvkfwth.xyz^
 ||bswsmlp.cn^
 ||images.communications.bt.com^
@@ -33954,6 +33959,7 @@
 ||pic.cnmo-img.com.cn^
 ||icon.cnmo.com^
 ||js.cnmo.com^
+||webcert.cnmstl.net^
 ||agility.cnn.com^
 ||gdyn.cnn.com^
 ||healthguides.cnn.com^
@@ -36081,6 +36087,7 @@
 ||coogoanu.net^
 ||cooguo.com^
 ||cooingcoal.com^
+||coojohoaboapee.xyz^
 ||12.cookcai.com^
 ||cookcountyrecord.com^
 ||cookerybands.com^
@@ -48441,6 +48448,7 @@
 ||etiro-neys.online^
 ||etisalatebill.net^
 ||etisassi.com^
+||stats.etix.vn^
 ||etkht.cn^
 ||etnacsqssv.com^
 ||etoads.net^
@@ -49206,6 +49214,7 @@
 ||xylem.ewebtel.com^
 ||eweconciliate.com^
 ||ewehsan.com^
+||eweisiw.top^
 ||baaa.ewelinajaniak.pl^
 ||bass.ewelinajaniak.pl^
 ||beara.ewelinajaniak.pl^
@@ -57164,6 +57173,7 @@
 ||girijeshrayal.com^
 ||girlcc.cc^
 ||www.girlfriendactivationsystem.com^
+||girlfriendwisely.com^
 ||adrotic.girlonthenet.com^
 ||girlownedbypolicelike.blogspot.com^
 ||girlporn.ru^
@@ -59796,6 +59806,7 @@
 ||gtsads.com^
 ||c.gtsepress.vip^
 ||w.gtsepress.vip^
+||gtsgeoyb.com^
 ||gtsmobi.com^
 ||gtsnews.net^
 ||gttpsale.xyz^
@@ -61304,6 +61315,7 @@
 ||go.hcmuaf.edu.vn^
 ||hcqumrjbx.xyz^
 ||hcvegu.com^
+||hcvjvmunax.com^
 ||zuglvn.hcwgq.xyz^
 ||img.hcwifi.cn^
 ||photo.hd-sites.gay^
@@ -62177,6 +62189,7 @@
 ||hezzer.com^
 ||hf5rbejvpwds.com^
 ||hfcofficial.com^
+||hfdfyrqj-ws.club^
 ||hfeoveukrn.info^
 ||hffabricaciones.com^
 ||hffxc.com^
@@ -62806,6 +62819,7 @@
 ||email.everyonesocial.hmausa.com^
 ||mdws.hmecu.com^
 ||hmepalobfn.com^
+||hmfxgjcxhwuix.com^
 ||dep.hmgroup.com^
 ||learning.hmhco.com^
 ||ma.hmhco.com^
@@ -64150,6 +64164,7 @@
 ||hseipaa.kz^
 ||hshmbx.xyz^
 ||hskads.com^
+||hsklyftbctlrud.com^
 ||hskujw2.com^
 ||go.hslda.org^
 ||tgb.hsmedia.ru^
@@ -72480,6 +72495,7 @@
 ||jojobet.com^
 ||jojog.com^
 ||jojosfashion.com^
+||jojqyxrmh.com^
 ||jokckb.top^
 ||jokedollars.com^
 ||tracking.joker.com^
@@ -77232,6 +77248,7 @@
 ||laxleader.com^
 ||c.laxnlqn.cn^
 ||v.laxnlqn.cn^
+||laxpanvzelz.com^
 ||popup.laybuy.com^
 ||layer-ads.de^
 ||layer-pj.com^
@@ -97570,6 +97587,7 @@
 ||oytoworkwithcatuk.com^
 ||oyunboss.net^
 ||oywzrri.com^
+||oyxkrulpwculq.com^
 ||aqffgt.oyxts.xyz^
 ||data-d4db30a18b.oz-online.de^
 ||oz-yypkhuwo.rocks^
@@ -99778,6 +99796,7 @@
 ||petronilho.com.br^
 ||petroplexnews.com^
 ||go.petroskills.com^
+||petrosunnier.shop^
 ||stats.petrotimes.vn^
 ||petrovka-online.com^
 ||petrowings.com^
@@ -110391,6 +110410,7 @@
 ||rbrbr88p.cn^
 ||rbrightscarletcl.info^
 ||rbrmhz.xyz^
+||rbropocxt.com^
 ||rbrxg.com^
 ||clicks.rbs.co.uk^
 ||metrics.droidsc.rbs.co.uk^
@@ -119453,6 +119473,7 @@
 ||goska.siol.net^
 ||mail.siom.ac.cn^
 ||sionicmedia.com^
+||sionscormation.org^
 ||siouxcitytimes.com^
 ||siouxempiretoday.com^
 ||axp.siouxlandproud.com^
@@ -129233,6 +129254,7 @@
 ||static.terrhq.ru^
 ||terribledeliberate.com^
 ||terriblethumb.com^
+||terrificdark.com^
 ||terrifyingcovert.com^
 ||assets2.terrischeer.com.au^
 ||terrout9.biz^
@@ -132109,6 +132131,7 @@
 ||tjnwfjy.cn^
 ||rzodao.tjock.se^
 ||tjoomo.com^
+||tjpzz.buzz^
 ||tjq.com^
 ||tjqwb.cn^
 ||tjsfb.net^
@@ -140778,6 +140801,7 @@
 ||vavietcombank.cc^
 ||vavotel.com^
 ||vavuwetus.com^
+||vawk0ap3.xyz^
 ||vax-now.com^
 ||tracking.vaxjobladet.se^
 ||sanalytics.vaxserve.com^
@@ -140946,6 +140970,7 @@
 ||tracking-rce.veeseo.com^
 ||tracking.rce.veeseo.com^
 ||go.veeva.com^
+||veezudeedou.net^
 ||vefbox.net^
 ||veferiunuu.live^
 ||vegabet.net^
@@ -144072,6 +144097,7 @@
 ||vs3.com^
 ||usbu.vsbocglo.top^
 ||track.vscash.com^
+||vscinyke.com^
 ||links.official.vsco.co^
 ||vscore.bet^
 ||vscore.online^
@@ -152618,6 +152644,7 @@
 ||you4cdn.com^
 ||you4love.jp^
 ||youa.net^
+||youaixx.xyz^
 ||youandmeart.com^
 ||youappi.com^
 ||youaremyvalentines.com^

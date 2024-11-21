@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241121162322
-! Last modified: 2024/11/21 16:23:22
-! Blocked domains: 181681
+! Version: 20241122002309
+! Last modified: 2024/11/22 00:23:09
+! Blocked domains: 181712
 ! unBlocked domains: 50
 !
 ||informinfluencer.000.pe^
@@ -9722,6 +9722,7 @@
 ||aimamparc.club^
 ||aimarketmastery.pro^
 ||aimatch.com^
+||aimaunongeez.net^
 ||aimediagroup.com^
 ||zitcrd.aimerfeel.jp^
 ||aimes.com^
@@ -14102,6 +14103,7 @@
 ||yoda.aomg5bzv7.com^
 ||yp.aomg5bzv7.com^
 ||zoo.aomg5bzv7.com^
+||aomsitf.com^
 ||aon-classiccar.com^
 ||s362693299.aon.ca^
 ||aonemeaclientcouncil.aon.com^
@@ -26117,6 +26119,7 @@
 ||bidio.pl^
 ||bidium.io^
 ||bidivoo.com^
+||bidjora.com^
 ||bidluck.pt^
 ||api-apac.bidmachine.io^
 ||api-eu.bidmachine.io^
@@ -32337,6 +32340,7 @@
 ||pages.bsigroup.com^
 ||bsilzzc.com^
 ||bsjusnip.com^
+||events.bsky.app^
 ||api.bsn.cloud^
 ||bsnl-tower.com^
 ||bsnl-tower.in^
@@ -32753,6 +32757,7 @@
 ||bulyiel.com^
 ||bum3.club^
 ||bumaikr.com^
+||bumaqblyqviw.fun^
 ||bumblecash.com^
 ||bumhuetony.live^
 ||bummerentertain.com^
@@ -53320,6 +53325,7 @@
 ||web.care.eehealth.org^
 ||eeheersoat.com^
 ||eehhabacgieacfjeaacg.world^
+||eehir.tech^
 ||eehuzaih.com^
 ||eekeeghoolsy.com^
 ||eekreeng.com^
@@ -65942,6 +65948,7 @@
 ||gleetresis.com^
 ||glegendspro.com^
 ||glelda-motoonline.pl^
+||gleloamseft.xyz^
 ||glelroalso.xyz^
 ||377gopalpur.glemhyts.website^
 ||beta.glenbowcollege.ca^
@@ -66708,6 +66715,7 @@
 ||app.goduke.com^
 ||t.goduke.com^
 ||go.godunnage.com^
+||goeducklactase.com^
 ||partner.goelite.club^
 ||www.goem.pl^
 ||goemailwizards.com^
@@ -67677,6 +67685,7 @@
 ||graptaupsi.net^
 ||graptolitesudner.life^
 ||ff-member.grarena.vn^
+||grashaksoudry.net^
 ||graspinginfinity.org^
 ||attribution.grasshoppers.com^
 ||grasshopperstreet.com^
@@ -71028,6 +71037,7 @@
 ||hhklc.com^
 ||hhkld.com^
 ||hhll.app^
+||hhndmpql.com^
 ||hhooyivpxq.com^
 ||hhrerv.xyz^
 ||hhsp2.com^
@@ -79882,6 +79892,7 @@
 ||iwearsin.com^
 ||pro.iweihai.cn^
 ||iweiweb.com^
+||iweizao.top^
 ||upltew.iwellps.com^
 ||info.iwerk.com^
 ||mjkhdw.iwettefashion.pl^
@@ -82361,6 +82372,7 @@
 ||jjssportsbar.com^
 ||jjthmis.com^
 ||jjvkbzdungkop.com^
+||jjvpbstg.com^
 ||jjvzqjh.xyz^
 ||jjyx.com^
 ||jjztrz.xyz^
@@ -87157,6 +87169,7 @@
 ||dw-collect.ksosoft.com^
 ||dw-online.ksosoft.com^
 ||ic.ksosoft.com^
+||kspmaaiayadg.com^
 ||kspotson.de^
 ||stats.ksr.onl^
 ||ksrinternationaltrade.com^
@@ -93354,6 +93367,7 @@
 ||luuce.jp^
 ||luuming.com^
 ||rtneys.luuna.mx^
+||luunels.com^
 ||luvaihoo.com^
 ||app.luve.tv^
 ||luvieessentials.com^
@@ -94149,6 +94163,7 @@
 ||mva1.maeva.com^
 ||xjzize.maeva.com^
 ||tongji.mafengwo.cn^
+||mafflerplaids.com^
 ||top100.mafia.ru^
 ||mafiaemptyknitting.com^
 ||marketing.mafiahairdresser.com^
@@ -101527,6 +101542,7 @@
 ||hblock-check.molinero.dev^
 ||analytics.molistar.com^
 ||molksakk.info^
+||mollesscar.top^
 ||mollingpos.site^
 ||wrvueo.mollis.ru^
 ||mollybabes.com^
@@ -106457,6 +106473,7 @@
 ||neesihoothak.net^
 ||neess105.top^
 ||neevkivmi.shop^
+||neewouwoafisha.net^
 ||neezausu.net^
 ||nefdcnmvbt.com^
 ||rokushiki.nefficient.jp^
@@ -108900,6 +108917,7 @@
 ||nodeclaim.com^
 ||analytics.nodecraft.com^
 ||nodehammer.com^
+||utics.nodejibi.in^
 ||nodekindle.rest^
 ||evru.nodent.top^
 ||nodice.click^
@@ -111054,6 +111072,7 @@
 ||tracking.info.oegig.at^
 ||oehcxmhk.xyz^
 ||oehgk.com^
+||matomo.oekoloewe.de^
 ||oem-sportswear.com^
 ||oeomo6qiv.top^
 ||track.oequilibrionatural.com^
@@ -118344,6 +118363,7 @@
 ||data-8dffad7d98.photovoltaik.eu^
 ||data-c7fa2f50f1.photovoltaik.eu^
 ||a.photowonder.net^
+||phouckusogh.net^
 ||phoumsoomsoh.com^
 ||phoutchounse.com^
 ||phouvemp.net^
@@ -118824,6 +118844,7 @@
 ||piorkopo.hair^
 ||piosenkanaszkle.pl^
 ||kkrakowka.piotroemilian.sklep.pl^
+||piotyo.xyz^
 ||piouscheers.com^
 ||piousis.top^
 ||piouspoemgoodnight.com^
@@ -119106,6 +119127,7 @@
 ||pj5189.com^
 ||pjagilteei.com^
 ||pjatr.com^
+||pjb9gv9.xyz^
 ||pjcruvrvjycs.top^
 ||pjdthz.xyz^
 ||pjhku.com^
@@ -122823,6 +122845,7 @@
 ||go.priviahealth.com^
 ||metrics.privilege.com^
 ||smetrics.privilege.com^
+||privilegedmansfieldvaguely.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
@@ -127602,6 +127625,7 @@
 ||smetrics.pudahuel.cl^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
+||pudicalnablus.com^
 ||pudraugraurd.net^
 ||pudugo.com^
 ||puenyc.com^
@@ -128416,6 +128440,7 @@
 ||qccoccocmedia.vn^
 ||qceatqoqwpza.com^
 ||qchannel04.cn^
+||qcixkb1.xyz^
 ||qcjslm.com^
 ||qcl777.com^
 ||log.qvb.qcloud.com^
@@ -132684,6 +132709,7 @@
 ||analytics.rever.vn^
 ||event-api.reverb.com^
 ||planarian.reverberate.org^
+||reverercowier.com^
 ||reverita-t.jp^
 ||t.reverse.health^
 ||reversed.biz^
@@ -137069,6 +137095,7 @@
 ||nhlvvh.sawadee.nl^
 ||sawantexim.com^
 ||sawasdeeplus.com^
+||sawdustreives.top^
 ||saweathercock.info^
 ||sawelver.de^
 ||sawfluenttwine.com^
@@ -140551,6 +140578,7 @@
 ||a8clk.shokutakubin.com^
 ||help.shokz.com^
 ||sholke.com^
+||sholraidsoalro.net^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
 ||shoneysofmorgantown.com^
@@ -172177,6 +172205,7 @@
 ||wecouldle.com^
 ||wecount4u.com^
 ||wecume.net^
+||wedauspicy.com^
 ||weddinbox.com^
 ||weddingbridal.com.vn^
 ||weddingeeos.com^
@@ -173142,6 +173171,7 @@
 ||webtracker.wheels.com^
 ||wheelsbullyingindolent.com^
 ||wheelscomfortlessrecruiting.com^
+||wheelsetsur.net^
 ||wheelssightsdisappointed.com^
 ||wheelstweakautopsy.com^
 ||wheelswag.xyz^
@@ -180662,6 +180692,7 @@
 ||zininopstonline.one^
 ||insights.zinio.com^
 ||zinipx.xyz^
+||zinniafianced.com^
 ||marketing.zinniawealth.com^
 ||zinniazen.cam^
 ||zinodo.today^

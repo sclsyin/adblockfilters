@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241121002318
-! Last modified: 2024/11/21 00:23:18
-! Blocked domains: 149797
+! Version: 20241121092150
+! Last modified: 2024/11/21 09:21:50
+! Blocked domains: 149809
 ! unBlocked domains: 45
 !
 ||finalistcontesthub.000.pe^
@@ -21982,6 +21982,7 @@
 ||bikesoupracing.com^
 ||fdnyib.biketiresdirect.com^
 ||www.biketradesph.com^
+||bikewhenever.com^
 ||bikhdeicide.click^
 ||bikinimybikini.com^
 ||bikrurda.net^
@@ -28099,6 +28100,7 @@
 ||cadsuta.net^
 ||caduka.cn^
 ||caeli-rns.com^
+||caerulus.io^
 ||caesaraugustaqbuge.life^
 ||caesarmausoleum.com^
 ||caesarporch.com^
@@ -37672,6 +37674,7 @@
 ||cumuluscrest.click^
 ||cunamutualconnect.com^
 ||images.edm.cunardinoz.com.au^
+||cunda.ai^
 ||cunderdr.net^
 ||cunealfume.shop^
 ||analytic-client.cuntempire.com^
@@ -38769,6 +38772,7 @@
 ||fishing.daigostudio.com^
 ||hpbrqr.daihatsu.co.jp^
 ||www-smt.daiichisankyo-hc.co.jp^
+||daiitmk.cn^
 ||images.daikinchemicals.com^
 ||www2.daikinchemicals.com^
 ||daikinvietnam.vn^
@@ -49803,6 +49807,7 @@
 ||faintjump.com^
 ||faintstates.com^
 ||faiphoawheepur.net^
+||fairanalytics.de^
 ||fairandwhiteboutique.com^
 ||fairauthasti.xyz^
 ||l.fairblocker.com^
@@ -53621,6 +53626,7 @@
 ||freedomart.cz^
 ||info.freedomcte.com^
 ||freedomfromnostalgia.com^
+||freedomgift50.com^
 ||services.freedomid.com^
 ||freedominfo.net^
 ||freedomly.top^
@@ -54787,6 +54793,7 @@
 ||g12083144435.co^
 ||g12281228770.co^
 ||yyhijp.g123.jp^
+||g1386590346.co^
 ||g1584674682.co^
 ||g1584674684.co^
 ||g1782759015.co^
@@ -64327,6 +64334,7 @@
 ||hyperdogstudios.com^
 ||hyperfollow.com^
 ||static.hyperfree.com^
+||tracker.prod.ams3.k8s.hyperia.sk^
 ||stats.hyperinzerce.cz^
 ||a8cv.hyperknife.info^
 ||hypermusk.com^
@@ -65670,6 +65678,7 @@
 ||links.imcas.com^
 ||imcdn.pro^
 ||imcod.net^
+||imcounter.com^
 ||imcounting.com^
 ||go.imd.org^
 ||imdn.pics^
@@ -76137,6 +76146,7 @@
 ||languishnervousroe.com^
 ||lanistaconcepts.com^
 ||bizinfosrilanka.lankapanel.net^
+||lanky-bar.com^
 ||hz1.lanmei80.com^
 ||lanmeifeel.xyz^
 ||js.lanmoes.com^
@@ -81035,6 +81045,7 @@
 ||makingseoweb.com^
 ||makingtheinternetpay.com^
 ||www.makingwebsitemoney.com^
+||makitfornows.com^
 ||makitravel.com^
 ||makkascan.com^
 ||makler.org.ua^
@@ -89541,6 +89552,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi40.com^
 ||navi42.ru^
 ||navi5.com^
 ||navi50.com^
@@ -106268,6 +106280,7 @@
 ||qhdnu.xyz^
 ||qhdtlgthqqovcw.xyz^
 ||qheose.xyz^
+||qhestrad.com^
 ||qhfjamsmjyn.com^
 ||qhigh.com^
 ||qhip.com^
@@ -109923,6 +109936,7 @@
 ||richdosia.com^
 ||richestplacid.com^
 ||richinfo.co^
+||richlifeads.ru^
 ||richmediaads.com^
 ||richmediastudio.com^
 ||ad.richmob.cn^
@@ -111055,7 +111069,6 @@
 ||royapp.com^
 ||sashimi.royli.dev^
 ||royrichie.com^
-||rozaholshouser.cfd^
 ||adaszymczak.rozaliaclaudia.com.pl^
 ||angelika610.rozaliaclaudia.com.pl^
 ||czesioland.rozaliaclaudia.com.pl^
@@ -114673,6 +114686,7 @@
 ||service-mondial-relay.fr^
 ||onedrive.service-office365.com^
 ||service-team-domfeld.info^
+||freedom.service-update3.com^
 ||service-updater.com^
 ||servicebnp.com^
 ||servicecapllc.com^
@@ -122679,6 +122693,7 @@
 ||secureanalytics.syf.com^
 ||securemetrics.syf.com^
 ||somni.syf.com^
+||syfgtby.cn^
 ||link.syfy-channel.com^
 ||tr.n.info.sygmabanque.fr^
 ||tr.gestion.sygmabnpparibas-pf.com^
@@ -123950,7 +123965,7 @@
 ||taptica.com^
 ||go.taptrk.com^
 ||tapub.fr^
-||api.tapulsads.ru^
+||tapulsads.ru^
 ||rm.tapuz.co.il^
 ||tapwater.news^
 ||tapwhigwy.com^
@@ -128130,7 +128145,6 @@
 ||tiktokclaim.eu^
 ||tiktokclaim.org^
 ||log.tiktokv.com^
-||log-boot.tiktokv.com^
 ||log-phx.tiktokv.com^
 ||log-ru.tiktokv.com^
 ||log-va.tiktokv.com^
@@ -135753,7 +135767,7 @@
 ||m3.usnews.com^
 ||oms.usnews.com^
 ||app.usnh.edu^
-||usninicsooey.com^
+||qa.usninicsooey.com^
 ||response.usnursing.com^
 ||strikeclient.usnursing.com^
 ||strikenurse.usnursing.com^
@@ -137269,7 +137283,6 @@
 ||analytics.verfacto.com^
 ||verfine.netlify.app^
 ||verfolgen.info^
-||verfun.com^
 ||verfut.com^
 ||verggdcnjjoing.com^
 ||vergi-gwc.com^
@@ -139194,6 +139207,7 @@
 ||mega.vk.se^
 ||vkacx.shop^
 ||vkanalytics.net^
+||vkbxaixl.icu^
 ||vkcdnservice.appspot.com^
 ||netugo.hb.ru-msk.vkcs.cloud^
 ||vkdgdt.xyz^
@@ -145581,7 +145595,6 @@
 ||xafuzcxr.xyz^
 ||marketing.xait.com^
 ||xajibur.ru^
-||xajzfwgs.com^
 ||xaker26.net^
 ||xalatlaco.org^
 ||xalienstreamx.com^
@@ -148994,7 +149007,6 @@
 ||zilchesmoated.com^
 ||zillafashion.com^
 ||a.zillastream.com^
-||zillify.cfd^
 ||go.zillowgroup.com^
 ||zim-zim-zam.com^
 ||mjp.zimad.com^

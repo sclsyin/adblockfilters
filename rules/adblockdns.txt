@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241208002109
-! Last modified: 2024/12/08 00:21:09
-! Blocked domains: 129910
+! Version: 20241208093823
+! Last modified: 2024/12/08 09:38:23
+! Blocked domains: 129916
 ! unBlocked domains: 26
 !
 ||ausdedaoubaandoub.0351tylz.com^
@@ -16174,6 +16174,7 @@
 ||marketing.attaneresults.com^
 ||attarpantoon.click^
 ||attbfamiliamelhor.com^
+||attelaoe.com^
 ||attemptinert.com^
 ||attemptingstray.com^
 ||attemptsbetween.com^
@@ -42321,6 +42322,7 @@
 ||dsntrewqaszxcv.wpenginepowered.com^
 ||dsnymrk0k4p3v.cloudfront.net^
 ||dsoodbye.xyz^
+||dsoxgdjv.icu^
 ||statis.dsp.vn^
 ||dsp.wtf^
 ||dsp5stero.com^
@@ -61257,6 +61259,7 @@
 ||target.huskydip.com^
 ||huskypartydance.com^
 ||na-pages.husqvarna.com^
+||husqvarnaoutlet.shop^
 ||fku.track.hustleplayzone.com^
 ||hustlersuniversityapp.com^
 ||huszawnuqad.com^
@@ -82664,6 +82667,7 @@
 ||al.nakayamashouten.com^
 ||br.naked.com^
 ||media.naked.com^
+||nakedanalytics.net^
 ||redtrack.nakedandthriving.com^
 ||energia-green.nakeuropa.com^
 ||nakybay4.xyz^
@@ -88457,6 +88461,7 @@
 ||mukbom.paperlanternstore.com^
 ||m.papertrail.io^
 ||papiashvili.top^
+||9uwe.papilliondairyqueen.com^
 ||papillonandco.com^
 ||papla.pl^
 ||papmeatidigbo.com^
@@ -102902,6 +102907,7 @@
 ||shopsellcardsdumps.com^
 ||a.shopserve.jp^
 ||a8.shopserve.jp^
+||7.shopsharm.ru^
 ||shopsieupham.com^
 ||shopsplumbing.com^
 ||uerzfm.shopstyle.ca^
